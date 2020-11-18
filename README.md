@@ -1,4 +1,4 @@
-# Hardware_Packing_Robot
+# Packaging Robot
 
 ## About the Project
 The project designs and fabricates a system that packages different types of fasteners into a box with eight compartments, with the number as well as the type of fasteners, and the location in the box specified by the user.
